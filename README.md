@@ -10,7 +10,7 @@ Frontend: **React**
 
 Backend: **.Net 6 Web API**
 
-Database: **PostgreSQL**
+Database: **PostgreSQL**<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
   
 ## Environment Variables
@@ -52,6 +52,17 @@ This installs the required dependencies
 
 ## Videos
 
-Demoya gif veya bağlantı ekleyin
 
-  
+https://user-images.githubusercontent.com/74009362/220589711-79b89733-a185-49e4-ba1d-3c0bb4d0d25b.mp4
+
+
+
+
+https://user-images.githubusercontent.com/74009362/220590169-9de26586-f23d-44ca-b9b2-5bb0058bbd5d.mp4
+
+
+
+
+
+
+  ![Ekran görüntüsü 2023-02-22 123057](https://user-images.githubusercontent.com/74009362/220590318-11ce0ef1-81da-43b5-b1de-4cfe54684d4b.png)
