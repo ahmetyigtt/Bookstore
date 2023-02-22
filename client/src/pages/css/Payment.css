@@ -1,0 +1,9 @@
+.invalid-feedback{
+    display: flex !important;
+}
+
+.paymentpage{
+    padding-bottom: 100px;
+    background-color: #cdcdcd;
+    height: 100vh;
+}

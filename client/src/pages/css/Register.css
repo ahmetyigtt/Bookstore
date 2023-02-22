@@ -1,0 +1,33 @@
+.outercontainer{
+  background-color:"#60696b";
+
+}
+.registercontainer {
+    display: flex ;
+    height: 80vh;
+    max-width: 60%;
+    width: 100%;
+    margin: auto;
+    padding-bottom: 20px;
+  }
+  .registerform {
+    width: 100%;
+    border: 1px solid #dfdfdf;
+    padding: 20px;
+    border-radius: 10px;
+    background: #fff;
+    margin-top: 25px !important;
+  }
+  .register.ui.form{
+    width: 40%;
+  }
+   
+  .fluid.ui.button.blue {
+    margin-top: 50px !important;
+    background: #0563b4 !important;
+  }
+  .message {
+    color: red;
+    font-size: 10px;
+    padding: 0px;
+  }
