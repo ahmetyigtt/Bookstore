@@ -1,5 +1,5 @@
 
-# Bookstore Project
+# Bookstore Full Stack Project
 
 This project is an e-commerce web application that provides user-interfaces for users to browse and purchase books.The application is built on the Model-View-Controller **(MVC)** architecture and uses a **database-first** approach. 
 
